@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello World, my name is Arman!
 
-<!--
-**arman-jr/arman-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science enthusiast, currently completing an M.Sc. in Statistics at the University of Calgary. 
+I am highly interested in the questions that start with "Why" in the world of data.
 
-Here are some ideas to get you started:
+Programming Skills:
+- Python (NumPy, Pandas, Scikit-Learn, Matplotlib),
+- R (ggplot2, dplyr, plotly, caret)
+- 
+Statistical Skills:
+Nonparametric/parametric estimation and inference;
+Supervised machine learning; Generalized Linear Models (Normal, Binomial, and Multinomial Regression), Processing and Classification of High-Dimensional Data, QDA, LDA, KNN, Naive Bayes, Random Forests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mathematical Skills:
+Mathematical Modeling, Numerical Analysis, Linear Algebra, Probability Theory, Real Analysis, PDEs, ODEs, Mathematical Logic, Algebraic Geometry, Number Theory, Cryptography, Graph Theory, Game Theory
+
+
